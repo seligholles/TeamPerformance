@@ -39,8 +39,8 @@ Questions
 Q:  How can you compare different properties with each other? The construction year, construction quality and location strongly influence the results?
 A:  Correct. That's why we took from each team 3 equivalent apartments, that have very similar characteristics.
 
-Q:  Are ligitaion expenses always a result from bad management, that you would lower rate a team with higher litigation expenses? 
-A:  Actually you are right. If the ligitaion expenses are less than 250 per object, you could ignore it completely.
+Q:  Are litigation expenses always a result from bad management, that you would lower rate a team with higher litigation expenses? 
+A:  Actually you are right. If the litigation expenses are less than 250 per object, you could ignore it completely.
     Only include it in the rental loss, together with the maintances cost, if the litigation expenses were over 250.
 
 Q:  Which parameter should I use to calculate efficiency of processing incoming calls?
@@ -52,7 +52,7 @@ A:  It works with a points system. A phone call should be answered within 1:30mi
 
 
 Sample data 
-Team, Object Number, rent, month rented out, yearly maintenance cost, yearly ligitaion expense, Waiting time, Rating
+Team, Object Number, rent, month rented out, yearly maintenance cost, yearly litigation expense, Waiting time, Rating
 
 Zurich,		1,	2000,	10,	    3100,	0,      '00:02:00',	5
 Zurich,		2,	4000,	11,	    5000,	250,    null	,null
